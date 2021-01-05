@@ -15,3 +15,7 @@ import type { Foo } from "https://deno.land/x/type_toolkit/mod.ts";
 ## Guide
 
 Todo😉
+
+## License
+
+type-toolkit is license under the MIT license. See the [attached LICENSE file](LICENSE).
