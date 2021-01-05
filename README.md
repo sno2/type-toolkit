@@ -16,6 +16,12 @@ import type { Foo } from "https://deno.land/x/type_toolkit/mod.ts";
 
 Todo😉
 
+## Roadmap
+
+### Case
+
+Able to convert string types to Kebab, Pascal, and Snake Case string types.
+
 ## License
 
 type-toolkit is license under the MIT license. See the [attached LICENSE file](LICENSE).
