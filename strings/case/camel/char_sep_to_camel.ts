@@ -1,7 +1,7 @@
 /**
  * Converts a character-separated string type to camel case from the given character.
- * @typeParam Char the character that separates each part of the string
- * @typeParam Cased the string that is to be converted
+ * @template Char the character that separates each part of the string
+ * @template Cased the string that is to be converted
  * @internal
  */
 export type CharSepToCamel<

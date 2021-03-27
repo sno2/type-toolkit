@@ -2,7 +2,7 @@ import type { CharSepToCamel } from "./char_sep_to_camel.ts";
 
 /**
  * Converts a string type that is in snake case to camel case.
- * @typeParam SnakeCase the snake case string type
+ * @template SnakeCase the snake case string type
  *
  * ```ts
  * type ErrorMessage = "file_not_found";

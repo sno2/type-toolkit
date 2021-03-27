@@ -2,7 +2,7 @@ import type { CharSepToCamel } from "./char_sep_to_camel.ts";
 
 /**
  * Converts a string type that is in kebab case to camel case.
- * @typeParam KebabCase the kebab case string type
+ * @template KebabCase the kebab case string type
  *
  * ```ts
  * type ErrorMessage = "file-not-found";
