@@ -9,7 +9,7 @@
 To setup Type Toolkit, just import it from the Deno third party modules index by inserting this line of code into your TypeScript file:
 
 ```ts
-import type { Foo } from "https://deno.land/x/type_toolkit/mod.ts";
+import type { Foo } from "https://deno.land/x/type_toolkit/mod.d.ts";
 ```
 
 ## Guide
